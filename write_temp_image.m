@@ -1,0 +1,1 @@
+imwrite(temp,'temp_out.png','png')
